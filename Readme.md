@@ -2,7 +2,7 @@
 
 Fecha de entrada en vigor: 25 de octubre de 2023
 
-Bienvenido/a a infoCinex. Esta política de privacidad explica cómo abordo la privacidad del usuario en relación con el uso de la Aplicación.
+Bienvenido/a a infoCinex. Esta política de privacidad explica cómo abordamos la privacidad del usuario en relación con el uso de la Aplicación.
 
 Valoramos tu privacidad y nos comprometemos a protegerla. Esta política te informa sobre nuestras prácticas con respecto a la recopilación, uso y divulgación de información cuando utilizas la Aplicación.
 
@@ -20,7 +20,7 @@ Estado de la conexión a Internet: Para obtener y mostrar la información de pel
 Esta información se utiliza únicamente para el funcionamiento técnico de la Aplicación y no se almacena, no se vincula contigo de forma personal, ni se comparte con terceros de una manera que pueda identificarte.
 
 3. Uso de la Información
-Dado que no recopilamos información personal identificable, no utilizo dicha información para ningún propósito. La información técnica mencionada anteriormente se utiliza exclusivamente para:
+Dado que no recopilamos información personal identificable, no utilizamos dicha información para ningún propósito. La información técnica mencionada anteriormente se utiliza exclusivamente para:
 Permitir la conexión y recuperación de datos de la API de TheMovieDB.
 Asegurar el correcto funcionamiento y visualización del contenido dentro de la Aplicación.
 
@@ -54,5 +54,5 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Te notifica
 
 10. Contáctanos
 
-Si tienes alguna pregunta sobre esta Política de Privacidad, puedes contactarme en:
+Si tienes alguna pregunta sobre esta Política de Privacidad, puedes contactarnos en:
 gamezdiaz.developer@gmail.com
